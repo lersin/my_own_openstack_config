@@ -101,6 +101,7 @@ CONFIG_DEBUG_MODE=n
 CONFIG_CONTROLLER_HOST=192.168.200.41
 
 # List the servers on which to install the Compute service.
+#CONFIG_COMPUTE_HOSTS=192.168.200.42
 CONFIG_COMPUTE_HOSTS=192.168.200.42,192.168.200.43
 
 # List of servers on which to install the network service such as
